@@ -1,1 +1,4 @@
 Test Bash!
+http://yann.lecun.com/
+http://tensorflow.org/tutorials/deep_cnn/index.md
+
