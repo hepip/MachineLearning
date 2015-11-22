@@ -1,4 +1,9 @@
 Test Bash!
 http://yann.lecun.com/
 http://tensorflow.org/tutorials/deep_cnn/index.md
-
+Numpy
+Scipy
+Caffe
+Torch
+Spark MLLib
+MongoDB/Solr/ActiveMQ/Mule
